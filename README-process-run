@@ -17,9 +17,9 @@ To run the program and get its options, do this:
 
 prompt> ./process-run.py -h
 
-If this doesn't work, type "python" before the command, like this:
+If this doesn't work, type "python3" before the command, like this:
 
-prompt> python process-run.py -h
+prompt> python3 process-run.py -h
 
 What you should see is this:
 
